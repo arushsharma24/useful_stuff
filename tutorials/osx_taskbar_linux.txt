@@ -1,0 +1,7 @@
+This is a mini guide on how to make the taskbar/dock in ubuntu look like the one on OSX (which looks pretty cool imo)
+So, here are the steps:-
+	1. Hide ubuntu's default dock
+	2. Install plank
+	3. Make plank run on startup
+And that's it, you're done!
+
