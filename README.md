@@ -2,6 +2,15 @@ So, while contributing to hacktoberfest20 I thought about making something usefu
 
 My current plans involve having: 
     - shell scripts
+    
+    
+    
     - code templates
+    
+    
+    
     - links to resources
+   
+   
+   
     - simple tips in some docs
