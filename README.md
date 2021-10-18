@@ -13,3 +13,5 @@ This repository contains stuff about some of the following:
     - movies
     
     - quantum computing
+    
+    - internship resourses (along with solutions of questions)
