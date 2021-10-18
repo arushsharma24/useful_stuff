@@ -1,4 +1,4 @@
-So, while contributing to hacktoberfest20 I thought about making something useful along the way, so this is a repository of useful tools for productivity.
+A repository of useful resources and tools while trying to contribute to hacktoberfest 21
 
 My current plans involve having: 
     
