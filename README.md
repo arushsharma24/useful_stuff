@@ -1,6 +1,6 @@
 A repository of useful resources and tools while trying to contribute to hacktoberfest 21
 
-My current plans involve having: 
+This repository contains stuff about some of the following: 
     
     - shell scripts
     
@@ -11,3 +11,5 @@ My current plans involve having:
     - simple tips in some docs
     
     - movies
+    
+    - quantum computing
