@@ -14,3 +14,6 @@
 
 ## Quantum 101
 - https://uwaterloo.ca/institute-for-quantum-computing/quantum-101
+
+## QWorld
+https://qworld.net/
