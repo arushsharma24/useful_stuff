@@ -11,3 +11,7 @@ My current plans involve having:
     - simple tips in some docs
     
     - movies
+    
+    - quantum computing
+    
+    - internship resourses (along with solutions of questions)
