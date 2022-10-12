@@ -1,4 +1,4 @@
-A repository of useful resources and tools while trying to contribute to hacktoberfest 21
+A repository of useful resources and tools while trying to contribute to hacktoberfest
 
 This repository contains stuff about some of the following: 
     
@@ -9,8 +9,6 @@ This repository contains stuff about some of the following:
     - links to resources
    
     - simple tips in some docs
-    
-    - movies
     
     - quantum computing
     
