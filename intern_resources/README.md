@@ -24,8 +24,11 @@
 ## SDE Sheet
 - https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
 
+## CP Sheet
+- https://takeuforward.org/interview-experience/strivers-cp-sheet/
+
 ## Fifty Challenging Problems in Probability
 - https://github.com/sinclam2/fifty-challenging-problems-in-probability
 
-## CP Sheet
-- https://takeuforward.org/interview-experience/strivers-cp-sheet/
+## Statistics 110
+- https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
