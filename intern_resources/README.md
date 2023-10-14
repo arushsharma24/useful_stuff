@@ -20,6 +20,3 @@
 
 ## 450 DSA Problems
 - https://450dsa.com/
-
-## CP Sheet
-- https://takeuforward.org/interview-experience/strivers-cp-sheet/)https://takeuforward.org/interview-experience/strivers-cp-sheet/
