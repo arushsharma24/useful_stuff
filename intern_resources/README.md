@@ -26,3 +26,6 @@
 
 ## Fifty Challenging Problems in Probability
 - https://github.com/sinclam2/fifty-challenging-problems-in-probability
+
+## CP Sheet
+- https://takeuforward.org/interview-experience/strivers-cp-sheet/
