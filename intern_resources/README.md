@@ -23,3 +23,6 @@
 
 ## SDE Sheet
 - https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
+
+## Fifty Challenging Problems in Probability
+- https://github.com/sinclam2/fifty-challenging-problems-in-probability
