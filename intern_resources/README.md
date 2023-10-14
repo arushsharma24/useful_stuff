@@ -32,3 +32,6 @@
 
 ## Statistics 110
 - https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
+
+## MCQs
+- https://www.indiabix.com
